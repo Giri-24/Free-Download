@@ -1,0 +1,1 @@
+This project uses yt-dlp as an external dependency. Consult the upstream yt-dlp repository and its license/third-party notices before redistribution. This wrapper is not an official yt-dlp project.

@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: yt-dlp-web-app
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
